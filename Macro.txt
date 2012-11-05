@@ -1,0 +1,7 @@
+Set PythonUtils = CreateObject("PythonDemos.Utilities")
+response = PythonUtils.SplitString("Hello from VB")
+For Each Item In response
+  MsgBox Item
+Next
+
+MsgBox PythonUtils.SumInteger(1, 2)
