@@ -1,37 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # This is the distutils script for creating a Python-based com exe
 # server using ctypes.com.  This script should be run like this:
 #
