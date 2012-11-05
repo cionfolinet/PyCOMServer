@@ -155,7 +155,7 @@ setup(
     # author, maintainer, contact go here:
     author="First Last",
     author_email="some_name@some_company.com",
-    packages=["PyCOMServer_p"],
+    #packages=["PyCOMServer_p"],
     #packages=["c:\Python27"],
     #console=[my_com_server_target]  
     com_server=["PyCOMServer"]
